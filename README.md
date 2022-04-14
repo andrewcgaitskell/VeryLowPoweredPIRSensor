@@ -84,4 +84,10 @@ https://www.batterystation.co.uk/duracell-dl2032-cr2032-lithium-coin-cell-batter
 
 Capacity: 240mAh
 
+https://www.convertunits.com/from/mA/to/microampere
+
+lens 
+
+https://uk.farnell.com/murata/iml-0687/fresnel-lens-pyroelec-infrared/dp/2707747
+
 

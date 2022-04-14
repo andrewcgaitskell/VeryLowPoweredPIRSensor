@@ -66,9 +66,9 @@ Pyroelectric infrared sensor and lens IRA-S210ST01 IML-0685, IML-0688
 
 ## IRA-S210ST01
 
-## IML-0685
+## IML-0685 - wall type
 
-## IML-0688
+## IML-0688 - ceiling type
 
 # Holy Grail 10 Years PIR Sensor
 

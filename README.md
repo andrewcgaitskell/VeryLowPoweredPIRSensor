@@ -90,4 +90,10 @@ lens
 
 https://uk.farnell.com/murata/iml-0687/fresnel-lens-pyroelec-infrared/dp/2707747
 
+# Very Useful Article by TI
+
+https://www.ti.com/lit/an/snaa301a/snaa301a.pdf?ts=1650448858273&ref_url=https%253A%252F%252Fwww.google.com%252F
+
+https://fr.farnell.com/en-FR/texas-instruments/tlv8544dt/op-amp-quad-8khz-0-0035v-us-soic/dp/3118087
+
 

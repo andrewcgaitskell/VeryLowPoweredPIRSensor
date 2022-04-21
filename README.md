@@ -96,4 +96,7 @@ https://www.ti.com/lit/an/snaa301a/snaa301a.pdf?ts=1650448858273&ref_url=https%2
 
 https://fr.farnell.com/en-FR/texas-instruments/tlv8544dt/op-amp-quad-8khz-0-0035v-us-soic/dp/3118087
 
+# Diode Values
+
+https://www.ti.com/lit/ug/snou148a/snou148a.pdf?ts=1650540889239
 
